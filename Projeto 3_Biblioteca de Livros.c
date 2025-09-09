@@ -5,7 +5,7 @@
 //Definições Globais (CONSTANTES)
 #define MAX_TITULO 50
 #define MAX_AUTOR 50
-#define giTAM_ISBN 13
+#define TAM_ISBN 13
 #define MAX_LIVROS 100
 #define MAX_USUARIOS 50
 #define MAX_NOME_SENHA 50
