@@ -14,8 +14,10 @@ int maior_numero(int *numbers, int size); // encontra o maior número do conjunt
 int menor_numero(int *numbers, int size); // encontra o menor número do conjunto de dados
 int numeros_pares(int *numbers, int size); // exibe os números pares do conjunto de dados
 int numeros_impares(int *numbers, int size); // exibe os números ímpares do conjunto de dados
+
+// ********************* Funções com uma tarefa específica **********************
 void verificacao_funcao(int *numbers, int size); // exibe se o vetor é impar ou par
-// **************************************************************************
+// ******************************************************************************
 
 
 int main() {
